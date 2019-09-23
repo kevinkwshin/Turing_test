@@ -4,3 +4,4 @@ test00 20190916 17:03:01
 ./validation_images_normal/2.png Real 17:03:27
 ./validation_images_normal/3.png Fake 17:03:31
 ./validation_images_normal/4.png Real 17:03:35
+./validation_images_normal/4.png Fake 17:03:35
